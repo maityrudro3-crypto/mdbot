@@ -1,5 +1,6 @@
 {
-  "name": "king-rudro-md",
+  "name": "⟴⟪𝗥𝛖֟፝𝗗𝗿𝗼⟫ 𝘅 𝗠𝗗 𐏓꯭⤹𓆪
+  ",
   "version": "1.0.0",
   "description": "Multi-user WhatsApp bot powered by Baileys",
   "main": "index.js",
@@ -14,7 +15,8 @@
     "bot",
     "baileys"
   ],
-  "author": "King Rudro",
+  "author": "⟴⟪𝗥𝛖֟፝𝗗𝗿𝗼⟫ 𝘅 𝗠𝗗 𐏓꯭⤹𓆪
+  ",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
