@@ -1,5 +1,5 @@
 {
-  "name": "rudro x md
+  "name": "rudro_x_md
   ",
   "version": "1.0.0",
   "description": "Multi-user WhatsApp bot powered by Baileys",
@@ -15,7 +15,7 @@
     "bot",
     "baileys"
   ],
-  "author": "rudro x md
+  "author": "rudro_x_md
   ",
   "license": "ISC",
   "dependencies": {
